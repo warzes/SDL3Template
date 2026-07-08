@@ -1,0 +1,11 @@
+/_obj
+/_lib
+/src/.vs
+/bin/Game_Debug.exe
+/bin/Game_Debug.pdb
+/bin/Game_Release.exe
+/bin/Game_Release.pdb
+*.user
+/bin/web/index.html
+/bin/web/index.js
+/bin/web/index.wasm
