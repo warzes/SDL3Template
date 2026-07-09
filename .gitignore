@@ -1,6 +1,7 @@
 /_obj
 /_lib
 /src/.vs
+/bin/Game.exe
 /bin/Game_Debug.exe
 /bin/Game_Debug.pdb
 /bin/Game_Release.exe
